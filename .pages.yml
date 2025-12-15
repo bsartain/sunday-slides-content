@@ -8,10 +8,9 @@ public_folder: "/uploads"
 
 collections:
   - name: "posts"
-    label: "Pages"
+    label: "Posts"
     folder: "posts"
     create: true
-    slug: "{{slug}}"
     extension: "md"
     format: "frontmatter"
     fields:
