@@ -1,13 +1,14 @@
-backend:
-  name: github
-  repo: bsartain/sunday-slides-content
-  branch: main
-
 media_folder: "public/uploads"
 public_folder: "/uploads"
 
 collections:
   - name: "posts"
+    label: "Pages"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string" }
