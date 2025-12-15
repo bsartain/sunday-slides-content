@@ -1,0 +1,24 @@
+backend:
+  name: github
+  repo: bsartain/sunday-slides-content
+  branch: main
+
+media_folder: "public/uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "posts"
+    label: "Pages"
+    folder: "posts"
+    create: true
+    slug: "{{slug}}"
+    extension: "md"
+    format: "frontmatter"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Order", name: "order", widget: "number", value_type: "int" }
+      - { label: "Show", name: "show", widget: "boolean", default: true }
+      - { label: "Excerpt", name: "excerpt", widget: "text" }
+      - { label: "Body", name: "body", widget: "markdown" }
