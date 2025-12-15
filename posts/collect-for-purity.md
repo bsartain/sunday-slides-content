@@ -2,6 +2,8 @@
 title: "Collect For Purity"
 slug: "collect-for-purity"
 date: "2025-01-01"
+order: 2
+show: true
 excerpt: "This is Collect For Purity"
 ---
 
