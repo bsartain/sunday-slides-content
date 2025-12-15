@@ -11,8 +11,6 @@ collections:
     label: "Posts"
     folder: "posts"
     create: true
-    extension: "md"
-    format: "frontmatter"
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Slug", name: "slug", widget: "string" }
