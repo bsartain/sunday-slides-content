@@ -1,6 +1,6 @@
 content:
   - name: pages
-    label: Pages
+    label: Posts
     path: posts
     type: collection
     fields:
