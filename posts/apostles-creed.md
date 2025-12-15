@@ -1,12 +1,11 @@
 ---
-title: "Apostles Creed"
-slug: "apostles-creed"
-date: "2025-01-01"
+title: Apostles Creed
+slug: apostles-creed
+date: 2025-01-01
 order: 1
 show: true
-excerpt: "This is Apostles Creed"
+excerpt: Apostles Creed
 ---
-
 I believe in God, the Father almighty,
 
 creator of heaven and earth.
