@@ -7,8 +7,6 @@ show: true
 excerpt: "This is Apostles Creed"
 ---
 
-## Apostles Creed
-
 I believe in God, the Father almighty,
 
 creator of heaven and earth.

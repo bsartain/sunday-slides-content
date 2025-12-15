@@ -7,8 +7,6 @@ show: true
 excerpt: "This is Collect For Purity"
 ---
 
-## Collect For Purity
-
 ALMIGHTY God,
 
 unto whom all hearts be open,
