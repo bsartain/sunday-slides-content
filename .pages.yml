@@ -1,8 +1,13 @@
-content:
-  - name: pages
-    label: Posts
-    path: posts
-    type: collection
+collections:
+  - name: posts
+    label: Pages
+    folder: posts
+    extension: md
+    create: true
+
+    filename:
+      template: "{{slug}}"
+
     fields:
       - name: title
         label: Title
@@ -22,7 +27,6 @@ content:
       - name: order
         label: Order
         type: number
-        required: true
 
       - name: show
         label: Show
@@ -31,7 +35,7 @@ content:
 
       - name: excerpt
         label: Excerpt
-        type: textarea
+        type: text
 
       - name: body
         label: Content
