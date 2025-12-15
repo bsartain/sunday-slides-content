@@ -1,7 +1,7 @@
 ---
 title: Apostles Creed
 slug: apostles-creed
-date: 2025-01-01
+date: 2025-01-15
 order: 1
 show: true
 excerpt: Apostles Creed
