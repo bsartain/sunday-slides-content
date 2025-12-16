@@ -13,4 +13,4 @@ our hearts taught to love it,
 and our wills strengthened to obey it; 
 through Jesus Christ our Lord. 
 
-Amen.
+Amen
