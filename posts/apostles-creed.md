@@ -23,4 +23,6 @@ the forgiveness of sins,
 the resurrection of the body, 
 and the life everlasting
 
-Amen."
+Amen.
+
+Praise The Lord
