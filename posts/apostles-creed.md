@@ -21,6 +21,6 @@ the holy catholic Church,
 the communion of saints, 
 the forgiveness of sins, 
 the resurrection of the body, 
-and the life everlasting. 
+and the life everlasting
 
 Amen.
