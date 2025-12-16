@@ -25,4 +25,4 @@ and the life everlasting
 
 Amen.
 
-Praise The Lord
+Hallelujah
