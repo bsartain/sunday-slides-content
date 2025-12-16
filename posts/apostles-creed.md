@@ -23,5 +23,4 @@ the communion of saints,
 the forgiveness of sins,
 the resurrection of the body,
 and the life everlasting
-
 Amen.
