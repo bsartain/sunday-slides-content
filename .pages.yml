@@ -5,8 +5,8 @@ collections:
     extension: md
     create: true
 
-    filename:
-      template: "{{slug}}"
+    # filename:
+    #   template: "{{slug}}"
 
     fields:
       - name: title
