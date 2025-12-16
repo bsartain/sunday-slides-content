@@ -3,7 +3,7 @@ collections:
     label: Pages
     folder: posts
     extension: md
-    create: false
+    create: true
 
     filename:
       template: "{{slug}}"
