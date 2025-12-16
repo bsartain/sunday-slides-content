@@ -6,7 +6,7 @@ order: 3
 show: true
 excerpt: Prayer For Illumination is prayed just before study of the word
 ---
-"Almighty God, by your Holy Spirit, 
+Almighty God, by your Holy Spirit, 
 illumine the sacred page, we pray, 
 that our minds may be open to receive your Word, 
 our hearts taught to love it, 
