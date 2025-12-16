@@ -1,7 +1,7 @@
 collections:
-  - name: posts
-    label: Pages
-    folder: posts
+  - name: liturgy
+    label: Liturgy
+    folder: liturgy
     extension: md
     create: true
 
