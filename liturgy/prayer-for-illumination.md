@@ -1,7 +1,7 @@
 ---
-title: Prayer For Illumination
-slug: prayer-for-illumination
 date: 2025-12-15
+title: Prayer For Illumination
+postImage: /images/prayer.jpg
 order: 3
 show: true
 excerpt: Prayer For Illumination is prayed just before study of the word
