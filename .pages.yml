@@ -2,30 +2,28 @@ content:
   - name: liturgy
     label: Liturgy
     folder: liturgy
+    type: collection
     extension: md
     create: true
+    fields:
+      - name: date
+        label: Date
+        type: date
+        required: true
 
-    filename:
-      template: "{{slug}}"
+      - name: order
+        label: Order
+        type: number
 
-  - name: date
-    label: Date
-    type: date
-    required: true
+      - name: show
+        label: Show
+        type: boolean
+        default: true
 
-  - name: order
-    label: Order
-    type: number
+      - name: excerpt
+        label: Excerpt
+        type: text
 
-  - name: show
-    label: Show
-    type: boolean
-    default: true
-
-  - name: excerpt
-    label: Excerpt
-    type: text
-
-  - name: body
-    label: Content
-    type: markdown
+      - name: body
+        label: Content
+        type: markdown
