@@ -12,6 +12,11 @@ content:
         type: date
         required: true
 
+      - name: title
+        label: Title
+        type: string
+        required: true
+
       - name: order
         label: Order
         type: number
