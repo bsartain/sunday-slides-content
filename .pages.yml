@@ -19,6 +19,11 @@ content:
         type: string
         required: true
 
+      - name: slug
+        label: Slug
+        type: string
+        required: true
+
       - name: postImage
         label: Image
         type: image
