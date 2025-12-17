@@ -6,6 +6,8 @@ content:
     path: liturgy
     extension: md
     create: true
+    filename:
+      template: "{{slug}}"
     fields:
       - name: date
         label: Date
@@ -38,7 +40,7 @@ content:
         label: Content
         type: markdown
 media:
-  - name: images # Note: 'name' key is required here
+  - name: images
     label: Images
     input: images
     output: /images
