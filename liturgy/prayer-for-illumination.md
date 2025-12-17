@@ -1,6 +1,7 @@
 ---
 date: 2025-12-15
 title: Prayer For Illumination
+slug: prayer-for-illumination
 postImage: /images/prayer.jpg
 order: 3
 show: true
