@@ -33,3 +33,9 @@ content:
       - name: body
         label: Content
         type: markdown
+media:
+  - name: images # Note: 'name' key is required here
+    label: Images
+    input: images
+    output: /images
+    extensions: [png, webp, jpg, jpeg]
