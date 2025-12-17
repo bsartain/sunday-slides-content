@@ -3,6 +3,7 @@ content:
     label: Liturgy
     folder: liturgy
     type: collection
+    path: liturgy
     extension: md
     create: true
     fields:
