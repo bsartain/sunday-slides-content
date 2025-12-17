@@ -2,11 +2,12 @@
 date: 2025-01-15
 title: Apostles Creed
 slug: apostles-creed
-postImage: /public/images/apostles-creed.jpeg
+postImage: /images/apostles-creed.jpeg
 order: 1
 show: true
 excerpt: Apostles Creed
 ---
+
 I believe in God, the Father almighty,
 creator of heaven and earth.
 I believe in Jesus Christ, his only Son, our Lord.
