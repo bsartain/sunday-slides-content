@@ -1,82 +1,32 @@
-# content:
-#   - name: liturgy
-#     label: Liturgy
-#     folder: liturgy
-#     type: collection
-#     path: liturgy
-#     extension: md
-#     create: true
-#     filename:
-#       template: "{{slug}}"
-#     fields:
-#       - name: date
-#         label: Date
-#         type: date
-#         required: true
-
-#       - name: title
-#         label: Title
-#         type: string
-#         required: true
-
-#       - name: slug
-#         label: Slug
-#         type: string
-#         required: true
-
-#       - name: postImage
-#         label: Image
-#         type: image
-
-#       - name: order
-#         label: Order
-#         type: number
-
-#       - name: show
-#         label: Show
-#         type: boolean
-#         default: true
-
-#       - name: excerpt
-#         label: Excerpt
-#         type: text
-
-#       - name: body
-#         label: Content
-#         type: markdown
-# media:
-#   - name: images
-#     label: Images
-#     input: images
-#     output: /images
-#     extensions: [png, webp, jpg, jpeg]
-
-collection:
+content:
   - name: liturgy
     label: Liturgy
     folder: liturgy
+    type: collection
     path: liturgy
     extension: md
     create: true
-
     filename:
       template: "{{slug}}"
-
     fields:
-      - name: title
-        label: Title
-        type: text
-        required: true
-
-      - name: slug
-        label: Slug
-        type: text
-        required: true
-
       - name: date
         label: Date
         type: date
         required: true
+
+      - name: title
+        label: Title
+        type: string
+        required: true
+
+      - name: slug
+        label: Slug
+        type: string
+        required: true
+
+      - name: postImage
+        label: Image
+        type: image
 
       - name: order
         label: Order
