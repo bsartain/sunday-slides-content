@@ -2,7 +2,7 @@
 date: 2025-01-15
 title: Apostles Creed
 slug: apostles-creed
-postImage: /images/apostles-creed.jpeg
+postImage: /images/prayer.jpg
 order: 1
 show: true
 excerpt: Apostles Creed
