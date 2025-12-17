@@ -1,9 +1,11 @@
-collections:
+content:
   - name: liturgy
     label: Liturgy
     folder: liturgy
     extension: md
     create: true
+
+    
 
     filename:
       template: "{{slug}}"
