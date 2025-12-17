@@ -48,5 +48,5 @@ media:
   - name: images
     label: Images
     input: images
-    output: /public/images
+    output: /images
     extensions: [png, webp, jpg, jpeg]
