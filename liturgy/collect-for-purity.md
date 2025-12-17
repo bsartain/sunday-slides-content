@@ -1,12 +1,12 @@
 ---
-title: "Collect For Purity"
-slug: "collect-for-purity"
-date: "2025-01-01"
+date: 2025-01-01
+title: Collect For Purity
+slug: collect-for-purity
+postImage: /images/walk.jpeg
 order: 2
 show: true
-excerpt: "This is Collect For Purity"
+excerpt: This is Collect For Purity
 ---
-
 ALMIGHTY God,
 
 unto whom all hearts be open,
