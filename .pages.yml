@@ -17,6 +17,10 @@ content:
         type: string
         required: true
 
+      - name: postImage
+        label: Image
+        type: image
+
       - name: order
         label: Order
         type: number
